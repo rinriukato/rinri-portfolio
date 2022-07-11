@@ -13,3 +13,4 @@ This website was created for me to gain practical application of web development
 - [ ] Profile picture should be more 'professional'
 - [ ] Alignment issues with the contact form
 - [ ] Alignment issues with the works section
+- [ ] Lots of spacing issues when in minimized view/mobile view
