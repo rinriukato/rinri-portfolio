@@ -10,6 +10,6 @@ This website was created for me to gain practical application of web development
 
 
 ### Noted issues:
-- [] Profile picture should be more 'professional'
-- [] Alignment issues with the contact form
-- [] Alignment issues with the works section
+- [ ] Profile picture should be more 'professional'
+- [ ] Alignment issues with the contact form
+- [ ] Alignment issues with the works section
